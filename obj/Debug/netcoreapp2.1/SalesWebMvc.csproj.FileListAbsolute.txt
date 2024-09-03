@@ -12,6 +12,11 @@ C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.Assembl
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.input.cache
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.output.cache
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorCoreGenerate.cache
+C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.g.cshtml.cs
+C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
+C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
+C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
@@ -30,8 +35,3 @@ C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 c:\Users\DELL-PC\Desktop\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
 c:\Users\DELL-PC\Desktop\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
-c:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.g.cshtml.cs
-c:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.g.cshtml.cs
-c:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
-c:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
-c:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
