@@ -1,8 +1,10 @@
-c:\Users\DELL-PC\Desktop\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.dll
-C:\Users\DELL-PC\Desktop\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
 C:\Users\DELL-PC\Desktop\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.deps.json
 C:\Users\DELL-PC\Desktop\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.json
 C:\Users\DELL-PC\Desktop\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.dev.json
+C:\Users\DELL-PC\Desktop\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.dll
+C:\Users\DELL-PC\Desktop\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
+C:\Users\DELL-PC\Desktop\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
+C:\Users\DELL-PC\Desktop\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
@@ -32,6 +34,4 @@ C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorTa
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
-c:\Users\DELL-PC\Desktop\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
-c:\Users\DELL-PC\Desktop\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
 C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
