@@ -38,3 +38,4 @@ C:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.
 c:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.g.cshtml.cs
 c:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.g.cshtml.cs
 c:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
+c:\Users\DELL-PC\Desktop\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
